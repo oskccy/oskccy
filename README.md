@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/oskccy/oskccy/assets/118501673/0f78104d-22df-4c4d-907c-8118ec42f039"/><div/> 
+<div align="center"><img src="https://github.com/oskccy/oskccy/assets/118501673/48ef6d13-d45e-4c51-a007-3976b23d511e"/><div/> 
 
 Hi 👋, I'm Oscar Sharaz Spencer.
 =====================================
