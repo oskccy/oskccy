@@ -1,6 +1,5 @@
 <div align="center"><img src="https://github.com/oskccy/oskccy/assets/118501673/48ef6d13-d45e-4c51-a007-3976b23d511e"/><div/> 
 
-Hi 👋, I'm Oscar Sharaz Spencer.
 =====================================
 ***I simply ~~like~~ love building software, **it's what I'm doing for the rest of my life. Period.*****
 > You can *contact me through LinkedIn* [here.](https://www.linkedin.com/in/oscar-sharaz/)
