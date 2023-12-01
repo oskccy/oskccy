@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/oskccy/oskccy/assets/118501673/48ef6d13-d45e-4c51-a007-3976b23d511e"/><div/> 
+<div align="center"><img src="https://github.com/oskccy/oskccy/assets/118501673/d23e3979-f72a-4739-8880-8ea461bbc9cc"/><div/> 
 
 <a href="https://www.linkedin.com/in/oscar-sharaz/">***I simply ~~like~~ love building software, **it's what I'm doing for the rest of my life. Period.*****<a/>
 
