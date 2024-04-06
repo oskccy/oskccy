@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/oscar-sharaz/">***I simply ~~like~~ love building software, **it's what I'm doing until the end of time. Period.*****<a/>
 
-<i>Hey there! My name's Oscar Sharaz and I'm 17 years old. I have experience working in remote and on-site Agile software teams, working AND deploying production level code along side various engineers, data scientists, BA's, PM's and more. <i/>
+<i>Hey there! My name's Oscar Sharaz. I have experience working in remote and on-site Agile software teams, working AND deploying production level code along side various engineers, data scientists, BA's, PM's and more. <i/>
 <br>
 
 <a href="https://open.spotify.com/show/3dxTU7gkkQOySgPJXAJeak">*****Check out my software podcast here!*****<a/>
