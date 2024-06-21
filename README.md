@@ -1,9 +1,9 @@
 <div align="center"><img src="https://github.com/oskccy/oskccy/assets/118501673/d23e3979-f72a-4739-8880-8ea461bbc9cc"/><div/> 
 
 ![](https://komarev.com/ghpvc/?username=oskccy&color=brightgreen) ![](https://img.shields.io/github/stars/oskccy?style=social)
-
+<br>
 <a href="https://www.linkedin.com/in/oscar-sharaz/">***I love hacking.***<a/>
-
+<br>
 <i>Hey there! My name's Oscar Sharaz. I have experience working in remote and on-site Agile software teams, working AND deploying production level code along side various engineers, data scientists, BA's, PM's and more. <i/>
 <br>
 
