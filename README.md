@@ -6,8 +6,6 @@
 <br>
 <i>Hey there! My name's Oscar Sharaz. I have experience working in remote and on-site Agile engineering teams, form smaller startups to large engineering firms, working AND deploying production level code along side various engineers, data scientists, BA's, PM's and more. <i/>
 <br>
-
-<a href="https://open.spotify.com/show/3dxTU7gkkQOySgPJXAJeak">*****Check out my software podcast here!*****<a/>
 <br>
 <br>
 <i>Below are some of the technologies that I have experience working with, from full-time internship positions and hackathons to personal projects.<i/>
