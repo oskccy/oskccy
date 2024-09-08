@@ -4,7 +4,7 @@
 <br>
 <a href="https://www.linkedin.com/in/oscar-sharaz/">***My LinkedIn***<a/>
 <br>
-<i>Hey there! My name's Oscar Sharaz. I have experience working in remote and on-site Agile engineering teams, form smaller startups to large engineering firms, working AND deploying production level code along side various engineers, data scientists, BA's, PM's and more. <i/>
+<i>Hey there! My name's Oscar Sharaz. I have experience working in remote and on-site Agile engineering teams, from smaller startups to large engineering firms, working AND deploying production level code along side various engineers, data scientists, BA's, PM's and more. <i/>
 <br>
 <br>
 <br>
