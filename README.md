@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=oskccy&color=brightgreen) ![](https://img.shields.io/github/stars/oskccy?style=social)
 <br>
 <br>
-<a href="https://www.linkedin.com/in/oscar-sharaz/">***Social***<a/>
+<a href="https://www.linkedin.com/in/oscar-sharaz/">my linkedin<a/>
 <br>
 <br>
-I have experience hacking in remote and on-site agile engineering teams, from smaller startups to large engineering firms, working and deploying production level code along side various engineers, data scientists, BA's, PM's and much more. 
+I have almost two years of paid experience hacking in remote and on-site agile engineering teams, from smaller startups to large engineering firms, working and deploying closed-source production level code along side various engineers, data scientists, BA's, PM's and much more. 
 <br>
 <br>
 
