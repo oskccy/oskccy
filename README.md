@@ -3,7 +3,7 @@
 ![Private repos](https://img.shields.io/badge/Closed--source%20repositories-239-blue?style=flat) 
 <br>
 <br>
-<a href="https://www.linkedin.com/in/oscar-sharaz/">my linkedin<a/>
+<a href="https://www.linkedin.com/in/oscar-sharaz/">linkedin<a/>
 <br>
 <br>
 I have almost two years of paid experience hacking in remote and on-site agile engineering teams, from smaller startups to large engineering firms, working and deploying closed-source production level code along side various engineers, data scientists, BA's, PM's and more. 
