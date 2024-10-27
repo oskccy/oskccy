@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=oskccy&color=brightgreen) 
-![Performance:](https://img.shields.io/badge/Latest%20performance%20review-4.993/5-red?style=flat)
+![Performance:](https://img.shields.io/badge/Latest%20performance%20review-5/5-red?style=flat)
 ![Private repos](https://img.shields.io/badge/Closed--source%20repositories-239-blue?style=flat) 
 <br>
 <br>
