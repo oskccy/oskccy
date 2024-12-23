@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=oskccy&color=brightgreen) 
 ![Performance:](https://img.shields.io/badge/Latest%20performance%20review-5/5-red?style=flat)
-![Private repos](https://img.shields.io/badge/Closed--source%20repositories-239-blue?style=flat) 
 <br>
 <br>
 <a href="https://www.linkedin.com/in/oscar-sharaz/">linkedin<a/>
