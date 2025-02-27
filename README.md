@@ -2,7 +2,7 @@
 ![Performance:](https://img.shields.io/badge/Latest%20performance%20review-5/5-red?style=flat)
 <br>
 <br>
-<a href="https://www.linkedin.com/in/oscar-sharaz/">linkedin<a/>
+<a href="https://www.linkedin.com/in/oscar-sharaz/">Professional Profile<a/>
 <br>
 <br>
 I'm an 18 year-old self-taught innovator with more than two years of engineering and research experience; having started my first paid full-time software position at 15 years old. I’ve collaborated on large-scale projects with CEO's, investors, clients, analysts and stakeholders of various business architectures; from high-pressure B2C startups to large-scale B2B engineering firms. 
