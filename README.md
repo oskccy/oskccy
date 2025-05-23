@@ -3,6 +3,4 @@
 <br>
 <br>
 <a href="https://www.linkedin.com/in/oscar-sharaz/">LinkedIn<a/>
-<br>
-<br>
 
